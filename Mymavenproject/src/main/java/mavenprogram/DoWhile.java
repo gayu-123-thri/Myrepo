@@ -5,7 +5,7 @@ public class DoWhile
 
 	public static void main(String[] args) 
 	{
-		int a=10;
+		int a=15;
 		do
 		{
 			System.out.println(a);
